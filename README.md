@@ -1,2 +1,2 @@
 # symmetrical-carnival
-gererate coztumizing idea
+generating to customize your own ideas 
